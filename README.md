@@ -5,7 +5,7 @@
   </picture>
 
   <p>
-    <a href="https://guidofabiancabrera.github.io/"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://guidofc.com.ar/"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/guidofc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:guidofabiancabrera10@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
@@ -39,4 +39,4 @@
 
 ---
 
-<sub>English: full stack developer based in Corrientes, Argentina. Vue, React and Node.js. See my <a href="https://guidofabiancabrera.github.io/en/">portfolio</a>.</sub>
+<sub>English: full stack developer based in Corrientes, Argentina. Vue, React and Node.js. See my <a href="https://guidofc.com.ar/en/">portfolio</a>.</sub>
